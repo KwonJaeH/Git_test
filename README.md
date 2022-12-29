@@ -28,7 +28,10 @@
   ### Built with
 <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=plastic&logo=Python&logoColor=yellow"> <img src="https://img.shields.io/badge/Qt-41CD52.svg?&style=flat&logo=Qt&logoColor=white"/>	  
 
-  
+<img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png" style="max-width: 100%;">
+    
+    ![image](https://user-images.githubusercontent.com/81853056/209890543-51d27749-4a99-47dc-94b0-93389915f753.png)
+
     
 ## Getting Started  
 ```   
