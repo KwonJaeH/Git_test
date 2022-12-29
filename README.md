@@ -1,8 +1,7 @@
 
 # CVIDG  
 
-![image](https://user-images.githubusercontent.com/81853056/209887648-0c3fead9-8f8b-49b3-a8dc-c0432f68b603.png)
-![image](https://user-images.githubusercontent.com/81853056/209887659-6df485f2-715d-4a94-b428-c12473ef9471.png)
+<img src="https://user-images.githubusercontent.com/81853056/209887648-0c3fead9-8f8b-49b3-a8dc-c0432f68b603.png" width="450" height="250"/>  <img src ="https://user-images.githubusercontent.com/81853056/209887659-6df485f2-715d-4a94-b428-c12473ef9471.png" width="450" height="250"/>
 
 
 
@@ -27,13 +26,13 @@
   * Provides GUI for ease of use and usability.  
   
   ### Built with
-<img src="https://img.shields.io/badge/Python-#3776AB?
-          style=plastic
-          &logo=Python
-          &logoColor=blue"/>
+<img src="https://img.shields.io/badge/Python-3776AB.svg?&style=plastic&logo=Python&logoColor=yellow"> <img src="https://img.shields.io/badge/Qt-41CD52.svg?&style=flat&logo=Qt&logoColor=white"/>	  
+
   
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?
-          style=flat
-          &logo=JS
-          &logoColor=white"/>	
+    
+## Getting Started  
+```   
+git clone http://mod.lge.com/hub/cheetah/cvidg.git   
+```   
+
   
